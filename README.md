@@ -19,15 +19,16 @@ A aplicação é composta por as seguintes telas:
 - Home;
 - Detalhes de nota;
 - Criação de nota;
-- Edição de perfil;
+- Edição de perfil.
 
 ## 📥 Conhecimento adquirido
 
 - O que é o ReactJS e como trabalhar com ele;
 - Componentes e propriedades;
+- Trabalhar com o React-router-dom;
 - O que é o ViteJS e como trabalhar com ele;
 - Arquitetura de pastas e arquivos;
-- CSS in-JS (Styled Components);
+- CSS in-JS (Styled Components).
 
 ## 🛠 Tecnologias usadas
 
