@@ -28,7 +28,13 @@ A aplicação é composta por as seguintes telas:
 - Trabalhar com o React-router-dom;
 - O que é o ViteJS e como trabalhar com ele;
 - Arquitetura de pastas e arquivos;
-- CSS in-JS (Styled Components).
+- CSS in-JS (Styled Components);
+- Trabalhar com API Restful;
+- Trabalhar com Axios;
+- React Context;
+- React Hooks - hook de autenticação, `useState`, `useEffect` e `useNavigate`;
+- React State;
+- Fluxo de Renderização React;
 
 ## 🛠 Tecnologias usadas
 
