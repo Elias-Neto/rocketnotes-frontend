@@ -34,7 +34,7 @@ A aplicação é composta por as seguintes telas:
 - React Context;
 - React Hooks - hook de autenticação, `useState`, `useEffect` e `useNavigate`;
 - React State;
-- Fluxo de Renderização React;
+- Fluxo de Renderização React.
 
 ## 🛠 Tecnologias usadas
 
